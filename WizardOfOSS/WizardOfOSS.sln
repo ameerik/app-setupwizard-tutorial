@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardOfOSS", "WizardOfOSS\WizardOfOSS.csproj", "{84C1294E-D0BF-4B82-96BE-265F6D758978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C1294E-D0BF-4B82-96BE-265F6D758978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C1294E-D0BF-4B82-96BE-265F6D758978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C1294E-D0BF-4B82-96BE-265F6D758978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C1294E-D0BF-4B82-96BE-265F6D758978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34119156-1E16-4967-8E97-4B2562FA0F22}
+	EndGlobalSection
+EndGlobal
