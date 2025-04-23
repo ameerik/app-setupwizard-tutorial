@@ -83,9 +83,6 @@ namespace WizardOfOSS
 
         private void pbWizard_Click(object sender, EventArgs e)
         {
-            // Create a semi-transparent red color
-            pbWizard.BackColor = Color.FromArgb(100, Color.Red);
-
 
             using (var stream = new MemoryStream(Properties.Resources.MinecraftDmgSfx))
             {
